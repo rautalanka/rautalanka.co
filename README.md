@@ -1,5 +1,3 @@
 # rautalanka.co
 
-rautalanka website
-
-testipäivitys
+official podcast website for rautalanka.co once it launches.
