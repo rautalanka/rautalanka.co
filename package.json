@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/rautalanka/rautalanka.co/issues"
   },
-  "homepage": "https://github.com/rautalanka/rautalanka.co#readme"
+  "homepage": "https://github.com/rautalanka/rautalanka.co#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0"
+  },
+  "dependencies": {
+    "gulp-sass": "^4.0.2"
+  }
 }
